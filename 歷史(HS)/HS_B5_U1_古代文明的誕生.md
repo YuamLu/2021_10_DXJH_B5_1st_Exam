@@ -84,6 +84,8 @@
   - 製作木乃伊 -> 具備解剖、醫學知識
 ## 印度古文明
 >B.C.2300 -> 印度河流域出現文明;B.C.1500雅利安人建立政權
+
+![雅利安人入侵](https://github.com/YuamLu/2021_10_DXJH_B5_1st_Exam/blob/main/Document/Photo/HS_aryanInvade.png?raw=true)
 ### 雅利安人統治
 - 宗教: 婆羅門教 -> 因果報應，靈魂輪迴
   - EX: 濕婆神(破壞與再生)
