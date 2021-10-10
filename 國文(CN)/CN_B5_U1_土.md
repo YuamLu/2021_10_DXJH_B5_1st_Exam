@@ -20,3 +20,5 @@
   - <b>題材</b>:愛護家鄉、刻劃土地，描繪農、漁村生活景象為主
   - <b>手法</b>:平淡自然、寫實的手法
   - <b>目的</b>:關懷農、漁民和珍惜土地
+  
+  ![CN_B5_U1_土](https://github.com/YuamLu/2021_10_DXJH_B5_1st_Exam/blob/main/%E5%9C%8B%E6%96%87(CN)/CN_B5_U1_%E5%9C%9F.png?raw=true)
